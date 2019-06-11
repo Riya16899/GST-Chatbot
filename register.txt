@@ -1,0 +1,13 @@
+Do I need to register for GST? You must register for GST if:
+-> your business has a GST turnover of $75,000 or more
+-> your non-profit organisation has a turnover of $150,000 per year or more
+
+
+GST turnover is your business's gross income, not your business's profit. When do I need to register?
+
+-> If you haven't registered for GST, and you become aware that your GST turnover will exceed the $75,000 per year threshold, you will have to register for GST within 21 days.
+-> You may choose to register if your GST turnover is below the $75,000 threshold, however this means that once registered, regardless of your turnover, you must include GST in your fees and claim GST credits for your business purchases.
+-> You need an Australian Business Number (ABN) to register for GST. Your ABN is part of the GST system and your ABN will be used as your GST registration number.
+If you don't have an ABN and are registering for one, you can use the same online form to apply for tax registrations during the application process. If you anticipate that your GST turnover will be over $75 000, make sure you register for GST when completing your ABN application.
+-> Go to the Business registration service Beta. You will be able to register for GST and other taxes on the same form.
+-> If you are unable to register online, you can call the ATO or register for GST through a registered tax agent.

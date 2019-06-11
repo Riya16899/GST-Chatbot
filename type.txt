@@ -1,0 +1,17 @@
+
+
+type: GST removes the cascading effect of tax. i.e., tax on tax. And this is where the three concepts come into the picture.CGST.SGST.IGST.What is Central Goods and Services Tax (CGST)?
+is it
+
+
+
+CGST: Under GST, CGST is a tax levied on Intra : State supplies of both goods and services by the Central Government and will be governed by the CGST Act. SGST will also be levied on the same Intra State supply but will be governed by the State Government.
+
+What is State Goods and Services Tax ?
+
+SGST: Under GST, SGST is a tax levied on Intra State supplies of both goods and services by the State Government and will be governed by the SGST Act. As explained above, CGST will also be levied on the same Intra State supply but will be governed by the Central Government.
+
+What is Integrated Goods and Services : Tax (IGST)?
+
+IGST: Under GST, IGST is a tax levied on : all Inter-State supplies of goods and/or services and will be governed by the IGST Act. IGST will be applicable on any supply of goods and/or services in both cases of import into India and export from India.
+

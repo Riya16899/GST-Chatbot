@@ -1,0 +1,10 @@
+which field get affection from GST Tax?
+
+
+affection: Footwear & Apparels/Garments. Cab and Taxi rides,Airline tickets,Train Fare,Movie Tickets,Life Insurance Premium,Mutual funds Returns
+-> Jewellery
+-> Buying a Property
+-> Education & Medical Facilities
+-> Hotel Stay
+-> Restaurant Bills/EATING OUT
+
